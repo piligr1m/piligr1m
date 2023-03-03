@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Martynov Stanislav (@piligr1m), I'm 21 yo. Currently I’m 5-year student at BMSTU. My major is information security.
+- 👋 Hi, I’m Martynov Stanislav (@piligr1m), I'm 22 yo. Currently I’m 5-year student at BMSTU. My major is information security.
 - 👀 I’m interested in programming and math.
 - 🌱 I’m currently learning Java and some other stuff.
 - 💞️ I’m looking to collaborate on anything, where I can upgrade my skills.
